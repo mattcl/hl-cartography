@@ -9,10 +9,3 @@ namePrefix: "cartography-"
 images:
   - name: "mattcl/st-cartography"
     newTag: "202549041049"
-
-
-configMapGenerator:
-  - name: app-config
-    envs:
-      - "app-config.env"
-
