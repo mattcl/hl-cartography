@@ -8,4 +8,4 @@ namespace: "cartography"
 namePrefix: "cartography-"
 images:
   - name: "mattcl/st-cartography"
-    newTag: "202532042232"
+    newTag: "202522042322"
